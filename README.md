@@ -2,7 +2,7 @@
 
 This repository is designed to help you prepare for coding interviews by focusing on 90 important Data Structures and Algorithms (DSA) questions commonly asked in interviews at top tech companies. These questions have been curated from the hiring processes of:
 
-- **Amazon**
+- [Microsft](https://github.com/TanmayKJha/6Companies30days-ArshGSheet-/tree/main/Amazon)
 - **Google**
 - [Microsoft](https://github.com/TanmayKJha/6Companies30days-ArshGSheet-/tree/main/Microsoft)
 - **Walmart Labs**
