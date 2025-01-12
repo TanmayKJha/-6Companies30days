@@ -1,7 +1,7 @@
 //USING BFS
 //T.C -> O(N) : S.C -> O(N)
 
-class Solution { 
+class Solution {  
 public:   
     
     void makeGraph(unordered_map<int, vector<int>> &adjList, int parent, TreeNode* currNode) {  
