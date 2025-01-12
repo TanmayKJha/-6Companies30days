@@ -5,7 +5,7 @@ This repository is designed to help you prepare for coding interviews by focusin
 - [Microsoft](https://github.com/TanmayKJha/6Companies30days-ArshGSheet-/tree/main/Microsoft)
 - **Google**
 - [Amazon](https://github.com/TanmayKJha/6Companies30days-ArshGSheet-/tree/main/Amazon)
-- **Walmart Labs**
+- [Walmart](https://github.com/TanmayKJha/6Companies30days-ArshGSheet-/tree/main/Walmart)
 - **Atlassian**
 - **Goldman Sachs**
 
